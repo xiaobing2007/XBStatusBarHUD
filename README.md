@@ -28,3 +28,4 @@
 ```objec
 + (void)showImage:(UIImage *)image text:(NSString *)text;
 ```
+
