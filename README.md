@@ -28,4 +28,5 @@
 ```objec
 + (void)showImage:(UIImage *)image text:(NSString *)text;
 ```
-
+## 8.用法展示,很简单的
+![image](https://github.com/xiaobing2007/XBStatusBarHUD/blob/master/XBStatusBarHUDDemo/XBStatusBarHUD/XBStatusBarHUD.bundle/XBStatusBar.gif?raw=true)
